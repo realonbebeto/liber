@@ -1,0 +1,11 @@
+liber.code-workspace
+*.pyc
+__pycache
+.DS_Store
+**/env
+**/git
+**/thanos
+**/media
+**/storage
+**/logs
+**/restful-env
